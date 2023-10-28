@@ -1,6 +1,6 @@
 ## ExpNo 4 : Implement Simple Hill Climbing Algorithm
-## Name: MANOJ CHOUDHARY V
-## Register Number:212221240025
+## Name: Mohammed Faizal J
+## Register Number:212222100027
 ## Aim:
 Implement Simple Hill Climbing Algorithm and Generate a String by Mutating a Single Character at each iteration.
 
